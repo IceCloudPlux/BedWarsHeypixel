@@ -1,0 +1,13 @@
+platform:
+  item:
+    material: "BLAZE_ROD"
+    name: "§6救援平台"
+  cooldown: 15
+
+messages:
+  cooldown: "§c你将在 %time% 秒后才能再次使用"
+  created: "§a你创建了一个救援平台！"
+  removed: "§c救援平台已被清除！"
+  no_permission: "§c你没有权限执行此操作！"
+  block_protection: "§c你无法破坏救援平台！"
+  damage_protection: "§c你无法受到伤害，站在救援平台上！"

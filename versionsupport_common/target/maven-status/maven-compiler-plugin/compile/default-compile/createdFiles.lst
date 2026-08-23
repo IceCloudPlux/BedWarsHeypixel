@@ -1,0 +1,16 @@
+com\andrei1058\bedwars\listeners\ItemDropPickListener.class
+com\andrei1058\bedwars\shop\defaultrestore\ShopItemRestoreListener$EntityDrop.class
+com\andrei1058\bedwars\shop\defaultrestore\ShopItemRestoreListener.class
+com\andrei1058\bedwars\listeners\ItemDropPickListener$PlayerPickup.class
+com\andrei1058\bedwars\listeners\SwapItem.class
+com\andrei1058\bedwars\listeners\ItemDropPickListener$EntityPickup.class
+com\andrei1058\bedwars\shop\defaultrestore\ShopItemRestoreListener$PlayerPickup.class
+com\andrei1058\bedwars\listeners\ItemDropPickListener$ArrowCollect.class
+com\andrei1058\bedwars\support\version\common\VersionCommon.class
+com\andrei1058\bedwars\shop\defaultrestore\ShopItemRestoreListener$EntityPickup.class
+com\andrei1058\bedwars\shop\defaultrestore\ShopItemRestoreListener$DefaultRestoreInvClose.class
+com\andrei1058\bedwars\listeners\ItemDropPickListener$EntityDrop.class
+com\andrei1058\bedwars\listeners\ItemDropPickListener$PlayerDrop.class
+com\andrei1058\bedwars\listeners\PlayerDropPick_1_11Minus.class
+com\andrei1058\bedwars\shop\defaultrestore\ShopItemRestoreListener$PlayerDrop.class
+com\andrei1058\bedwars\listeners\Interact_1_13Plus.class
